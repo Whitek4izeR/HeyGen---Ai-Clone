@@ -17,5 +17,5 @@ Whether you're a creator, entrepreneur, or just exploring the world of AI automa
 
 
 ### API Docs:
-a. https://docs.heygen.com/reference/limits
-b. https://heygen.com
+a.https://docs.heygen.com/reference/limits
+b.https://heygen.com
