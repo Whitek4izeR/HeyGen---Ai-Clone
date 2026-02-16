@@ -17,5 +17,5 @@ Setting up Polling
 
 
 ### API Docs:
--- https://docs.heygen.com/reference/limits
--- https://heygen.com
+a. https://docs.heygen.com/reference/limits
+b. https://heygen.com
