@@ -13,9 +13,9 @@ Whether you're a creator, entrepreneur, or just exploring the world of AI automa
 3. Connecting Avatar ID
 4. Connecting Voice ID
 5. Test Avatar Video
-Setting up Polling
+6. Setting up Polling
 
 
 ### API Docs:
-a. https://docs.heygen.com/reference/limits
-b. https://heygen.com
+*a. https://docs.heygen.com/reference/limits
+*b. https://heygen.com
